@@ -17,9 +17,9 @@ Menu de Navegação
    * [Editando uma Nota](#-Editar-uma-Nota)
    * [Excluir uma Nota](#-Excluir-uma-Nota)
    * [Detalhamento técnico](#-Detalhamento-Técnico)
-        * [Estruturação do código](#-tecnologias)
-        * [As Functions](#-tecnologias)
-        * [Escolha da Cartela de cores & Fonte](#-tecnologias)
+        * [Estruturação do código]
+        * [As Functions]
+        * [Escolha da Cartela de cores & Fonte]
 <!--te-->
 
 
@@ -71,10 +71,18 @@ As tecnologias utilizadas foram:
 
 <h3> Estruturação do Código: </h3>
 
+<h4>📄  Web App Manifest</h4>
+Essa Página é crucial na contrução da PWA visto que este é responsável por é instalar aplicações web na tela inicial de um aparelho, propiciando aos usuários um acesso mais rápido e uma experiência enriquecida.
+
 <h4>📄 Service-worker.js</h4>
-Essa Página é essencial na contrução da PWA pois dentro dela adicionamos os métodos de addEventListener(). Esses métodos permitem configurar funções a serem chamadas quando um evento especificado acontece, nesse caso o install, fetch e activate. 
+Essa Página é de extrema importância pois dentro dela adicionamos os métodos de addEventListener(). Esses métodos permitem configurar funções a serem chamadas quando um evento especificado acontece, nesse caso o install, fetch e activate. 
 
+<h4>📄 Index.html</h4>
+Responsável por criar a webpage.
 
+<h4>📄 Index.js</h4>
+
+É o arquivo responsável por renderizar o elemento principal da nossa aplicação
 
 ---
 
