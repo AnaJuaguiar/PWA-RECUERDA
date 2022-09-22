@@ -16,7 +16,7 @@ Menu de Navegação
    * [Criar a Primeira Nota](#-Criar-a-Primeira-Nota)
    * [Editando uma Nota](#-Editar-uma-Nota)
    * [Excluir uma Nota](#-Excluir-uma-Nota)
-   * [Detalhamento técnico](#-mantenha-a-qualidade-do-seu-código)
+   * [Detalhamento técnico](#-Detalhamento-Técnico)
         * [Estruturação do código](#-tecnologias)
         * [As Functions](#-tecnologias)
         * [Escolha da Cartela de cores & Fonte](#-tecnologias)
@@ -54,12 +54,27 @@ O Layout padrão de apresentação das notas é pela data de criação da mesma.
 
 ---
 
-## ✔ Excluir uma Nota:
+## ❌ Excluir uma Nota:
 
 Dentro da seção de edição de notas, o usuário possui a opção de salvar alterações ou excluir notas. 
 A opção de deixar a funcionalidade de exclusão de notas dentro da tela de edição para evitar possíveis exclusões acidentais. 
 
-💡💡Lembrete:
+---
+
+## 🖥 Detalhamento Técnico:
+
+Entenda um pouco mais a respeito de como o projeto foi construído: 
+As tecnologias utilizadas foram:
+* Html
+* Js
+* CSS(Tawlind)
+
+<h3> Estruturação do Código: </h3>
+
+<h4>📄 Service-worker.js</h4>
+Essa Página é essencial na contrução da PWA pois dentro dela adicionamos os métodos de addEventListener(). Esses métodos permitem configurar funções a serem chamadas quando um evento especificado acontece, nesse caso o install, fetch e activate. 
+
+
 
 ---
 
