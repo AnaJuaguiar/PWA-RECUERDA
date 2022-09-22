@@ -14,9 +14,8 @@ Menu de Navegação
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Funcionalidades](#-funcionalidades)
    * [Criar a Primeira Nota](#-Criar-a-Primeira-Nota)
-   * [Editando uma Nota](#-como-executar-o-projeto)
-     * [Pré-requisitos](#pré-requisitos)
-   * [Excluindo uma Nota](#-conexão-front-e-back)
+   * [Editando uma Nota](#-Editar-uma-Nota)
+   * [Excluir uma Nota](#-Excluir-uma-Nota)
    * [Detalhamento técnico](#-mantenha-a-qualidade-do-seu-código)
         * [Estruturação do código](#-tecnologias)
         * [As Functions](#-tecnologias)
@@ -48,10 +47,17 @@ Casdo o usuário ainda não tenha nenhuma nota criada, o layout da página princ
 Dessa forma, o usuário possui acesso às primeiras orientações de como criar uma nota.
 
 ---
+
 ## ✔ Editar uma Nota:
 
 O Layout padrão de apresentação das notas é pela data de criação da mesma. Dentro de uma respectiva nota, caso o usuário escolha maximizar a mesma, verá um ícone de edição. É por ele que o usuário fará a edição das notas. 
 
+---
+
+## ✔ Excluir uma Nota:
+
+Dentro da seção de edição de notas, o usuário possui a opção de salvar alterações ou excluir notas. 
+A opção de deixar a funcionalidade de exclusão de notas dentro da tela de edição para evitar possíveis exclusões acidentais. 
 
 💡💡Lembrete:
 
