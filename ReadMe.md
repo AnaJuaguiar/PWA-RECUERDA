@@ -14,7 +14,7 @@ Menu de Navegação
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Funcionalidades](#-funcionalidades)
    * [Criar a Primeira Nota](#-Criar-a-Primeira-Nota)
-   * [Editando um Nota](#-como-executar-o-projeto)
+   * [Editando uma Nota](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
    * [Excluindo uma Nota](#-conexão-front-e-back)
    * [Detalhamento técnico](#-mantenha-a-qualidade-do-seu-código)
@@ -42,20 +42,15 @@ Essa opção é para caso você queira adicionar aguma informação no decorrer 
 🐸 Excluir uma Nota
 
 ---
-
-## 🚀 Como executar o projeto
-
-# Pré-Requisitos: 
-
-💡Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-
-
----
-## 📢 Criar a Primeira Nota:
+## ➕ Criar a Primeira Nota:
 
 Casdo o usuário ainda não tenha nenhuma nota criada, o layout da página principal é parcialmente modificado.
 Dessa forma, o usuário possui acesso às primeiras orientações de como criar uma nota.
 
+---
+## ✔ Editar uma Nota:
+
+O Layout padrão de apresentação das notas é pela data de criação da mesma. Dentro de uma respectiva nota, caso o usuário escolha maximizar a mesma, verá um ícone de edição. É por ele que o usuário fará a edição das notas. 
 
 
 💡💡Lembrete:
