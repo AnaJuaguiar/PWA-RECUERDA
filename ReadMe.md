@@ -20,11 +20,13 @@ Menu de Navegação
         * Estruturação do código
         * As Functions
         * Escolha da Cartela de cores & Fonte
+   
 <!--te-->
 
 
 ## 💻 Sobre o projeto
 
+Recuerda é um diário da gratidão. 
 
 ---
 
