@@ -17,9 +17,9 @@ Menu de Navegação
    * [Editando uma Nota](#-Editar-uma-Nota)
    * [Excluir uma Nota](#-Excluir-uma-Nota)
    * [Detalhamento técnico](#-Detalhamento-Técnico)
-        * [Estruturação do código]
-        * [As Functions]
-        * [Escolha da Cartela de cores & Fonte]
+        * Estruturação do código
+        * As Functions
+        * Escolha da Cartela de cores & Fonte
 <!--te-->
 
 
@@ -69,7 +69,7 @@ As tecnologias utilizadas foram:
 * Js
 * CSS(Tawlind)
 
-<h3> Estruturação do Código: </h3>
+<h3>📋 Estruturação do Código: </h3>
 
 <h4>📄  Web App Manifest</h4>
 Essa Página é crucial na contrução da PWA visto que este é responsável por é instalar aplicações web na tela inicial de um aparelho, propiciando aos usuários um acesso mais rápido e uma experiência enriquecida.
@@ -82,50 +82,17 @@ Responsável por criar a webpage.
 
 <h4>📄 Index.js</h4>
 
-É o arquivo responsável por renderizar o elemento principal da nossa aplicação
+É o arquivo responsável por renderizar o elemento principal da nossa aplicação.
+
+<h3>📍 As Functions </h3>
+
+Existem 3 partes principais mapeadas no projeto:
+* Adição
+* Edição
+* Exclusão
+
+<h3>Escolha da Cartea de Cores</h3>
+
+O lavanda Remete a uma certa tranquilidade, enqant o Amarelo remete à alegria que o Recuerda se propõe a trazer aos usuários.
 
 ---
-
-# 🧭 Clone este repositório
-
-
----
-# 🗝 Conexão Front e Back:
-
-
----
-## 🟢 Mantenha a qualidade do seu código
-
-🔎 Sonar
-
-
-
-
-# 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-#### **Website**  ([React](https://reactjs.org/))
-
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[React Icons](https://react-icons.github.io/react-icons/)**
--   **[Axios](https://github.com/axios/axios)**
-
-> Veja o arquivo  [package.json](https://vli.visualstudio.com/VLI/_git/FAT.OperacoesAcessorias.FrontEnd)
-
-#### [](https://vli.visualstudio.com/VLI/_git/FAT.OperacoesAcessorias.FrontEnd) **Server**  ([NodeJS](https://nodejs.org/en/))
-
--   **[Express](https://expressjs.com/)**
--   **[CORS](https://expressjs.com/en/resources/middleware/cors.html)**
--   **[KnexJS](http://knexjs.org/)**
--   **[SQLite](https://github.com/mapbox/node-sqlite3)**
--   **[ts-node](https://github.com/TypeStrong/ts-node)**
--   **[dotENV](https://github.com/motdotla/dotenv)**
--   **[Multer](https://github.com/expressjs/multer)**
--   **[Celebrate](https://github.com/arb/celebrate)**
--   **[Joi](https://github.com/hapijs/joi)**
-
-
-
----
-
